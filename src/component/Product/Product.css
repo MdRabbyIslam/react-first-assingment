@@ -1,0 +1,38 @@
+.card {
+    border: none;
+    outline: none;
+    width: 18rem;
+    height: 30rem;
+    margin: 20px 0;
+    box-shadow: 3px 6px 12px -5px lightgray;
+    text-align: left;
+    
+}
+.card-title{
+    height: 4rem;
+    font-size: 17px;
+    font-weight: bold;
+    line-height: 22px;
+}
+.instructor{
+    font-weight: 600;
+    color: rgba(0, 0, 0, 0.6);
+    text-decoration: underline;
+}
+.before-price{
+    text-decoration: line-through;
+    opacity: .5;
+}
+.price{
+    font-weight: bold;
+}
+.ratings{
+    color: rgba(255, 166, 0, 0.986);
+    font-weight: bold;
+}
+.enroll-btn{
+    border: none;
+    outline: none;
+}
+
+

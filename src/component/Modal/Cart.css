@@ -1,0 +1,14 @@
+.cart{
+    position: absolute;
+    top: 0;
+    left:  0;
+    bottom: 0;
+    right: 0;
+    height: 100%;
+    width: 100%;
+    border: 3px solid blue;
+    padding: 10px;
+    z-index: 100;
+    background-color: black;
+    color: white;
+}

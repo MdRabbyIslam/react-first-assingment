@@ -1,0 +1,9 @@
+.courses-div{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding: 10px 20px;
+}
+.cart-div{
+    display: none;
+}
