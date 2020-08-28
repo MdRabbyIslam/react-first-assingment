@@ -9,6 +9,11 @@
     border: 3px solid blue;
     padding: 10px;
     z-index: 100;
-    background-color: black;
+    background: rgb(73, 73, 94);
     color: white;
+}
+.total-price{
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
 }

@@ -1,4 +1,17 @@
 .singleCart-div{
     display: flex;
     justify-content: space-between;
+    margin: 10px;
+    background: rgb(73, 73, 94);
+    box-shadow: 5px 5px 5px white;
+    padding: 20px;
+    border-radius: 8px;
+    position: relative;
+}
+.remove-product{
+    position: absolute;
+    font-size: 20px;
+    top: 5px;
+    right: 5px;
+    cursor: pointer;
 }
